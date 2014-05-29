@@ -40,5 +40,8 @@
     "verb": "~0.2.0",
     "chai": "~1.9.1",
     "mocha": "~1.18.2"
+  },
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4"
   }
 }
